@@ -26,5 +26,5 @@ pip install -r requirements.txt
 ## Run
 ```bash
 cd experiments
-bash ../pope_coco_ed.bash
+bash ./pope_coco_ed.bash
 ```
