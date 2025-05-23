@@ -1,6 +1,6 @@
 ## Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
->  **Official Repository:** [\[url\]](https://openreview.net/forum?id=ziw5bzg2NO)
+The Thirteenth International Conference on Learning Representations (ICLR 2025)
+>  **Official Repository:** [Ensemble Decoding](https://openreview.net/forum?id=ziw5bzg2NO)
 
 ---
 ##  Abstract
@@ -10,6 +10,9 @@ Recent advancements in Large Vision-Language Models (LVLMs) have significantly e
 <p align="center">
   <img src="./images/ED.png" alt="Ensemble Decoding Framework" width="700"/>
 </p>
+
+
+
 ---
 ## Environment Setup
 ```bash
